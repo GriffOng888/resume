@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Griffin Ong
     tagline: 
-    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Griffin_Ong.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: griffong888@gmail.com
@@ -46,12 +46,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a San Francisco native and public policy graduate student focused on urban equity, urban resilience, and the ways in which these goals can be achieved through affordable housing, transportation policy, food security, and racial justice. I seek roles where I can analyze data to help inform our future policy decisions in urban settings.
+
 education:
     title: Education
     info:
@@ -68,46 +64,46 @@ education:
         time: September 2011 - June 2015
         details: |
           Minor in Film, Television, and Digital Media
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Management and Budget Consulting Intern
+        time: June 2022 - December 2022
+        company: PFM, Philadelphia, PA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Promote budget equity through qualitative research on the effectiveness of the criminal justice system as it pertains to marginalized populations in Harris County, Texas	    
+            - Review statewide incentives on long-term care (LTC) insurance that serve to expand LTC uptake and decrease Medicaid spending in the State of Ohio
+	    - Study ESG bonds and other financial initiatives that improve infrastructure and sustainable development for state and local governments 
+
+      - role: Department of Planning and Development Intern
+        time: December 2021 - June 2022
+        company: City of Chicago, Chicago, IL
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Evaluated City-approved Planned Developments to ensure developers provide opportunities equitably to minority and women-owned businesses as part of Executive Order 2017-2
+            - Conducted analyses on the distribution of Chicago Recovery Plan (CRP) funds to help small businesses recover from the COVID-19 pandemic
+            - Audited and document the City’s current practices to build diversity, equity, and inclusion (DEI) into the departments’ internal and external work 
+
+      - role: Senior Consultant
+        time: July 2016 - July 2021
+        company: Cloudmed, San Francisco, CA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Served as primary contact for external clients and developed recommendations for 25 hospital stakeholders 
+            - Collaborated with clients to complete deliverables and streamline existing processes; led to the recovery of $10M in revenue annually
+            - Researched client risk and identified billing trends for more efficient account resolution  
+            - Completed and presented quarterly status meetings to highlight successes and project challenges
+            - Delegated tasks to reach project goals and guided Analyst professional development; 90% overall Analyst promotion rate across projects
+            - Analyzed and managed database of 20,000 patient accounts using SQL and Access to provide clients and teammates with an accurate understanding of overall progress
+            - Designed DEI-focused recruiting processes and coordinated trainings for new Analysts; 20% increase in satisfaction with company’s DEI efforts
+
+      - role: AmeriCorps Member 
+        time: August 2015 - June 2016
+        company: City Year, Los Angeles, CA
+        details: |
+            - Conducted weekly pull-outs and planned interventions for 11 Focus List students to improve math and English ability as well as behavior and class attendance; 100% of students improved scores by year-end
+            - Developed 45 session plans and communicated with teachers to provide optimal Focus List lessons 
+            - Planned quarterly school events to engage students, families, and community members 
+
 projects:
     title: Projects
     intro: >
@@ -123,25 +119,6 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
       - title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
@@ -180,23 +157,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: R
+        level: Advanced
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: Intermediate
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Microsoft Access
+        level: Intermediate
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
