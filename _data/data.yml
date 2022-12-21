@@ -50,20 +50,20 @@ career-profile:
 
 education:
     title: Education
-    info: 
-      - degree: Master of Public Policy
-        university: University of Chicago Harris School of Public Policy
+    info:
+      - degree: Master in Public Policy
+        university: University of Chicago - Harris School of Public Policy
         time: September 2021 - June 2023
         details: |
           Certificates in: 
-        - Data Analytics
-        - Urban Science and Sustainable Development
-        - Policy Analysis
+            - Data Analytics
+            - Urban Science and Sustainable Development
+            - Policy Analysis
       - degree: BS in Neuroscience
         university: University of California Los Angeles (UCLA)
         time: September 2011 - June 2015
         details: |
-         - Minor in Film, Television, and Digital Media
+          Minor in Film, Television, and Digital Media
 
 experiences:
     title: Experiences
