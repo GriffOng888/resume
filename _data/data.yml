@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: griffong888@gmail.com
     linkedin: Griffin-Ong
-    github: GriffOng888
+    github: GriffOng888/Code-Samples
 
     languages:
       title: Languages
@@ -51,14 +51,12 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Master in Public Policy
+      - degree: Master in Public Policy (Certificates in Data Analytics, Urban Science and Sustainable Development, and Policy Analysis)
         university: University of Chicago - Harris School of Public Policy
         time: September 2021 - June 2023
-        details: Certificates in Data Analytics, Urban Science and Sustainable Development, and Policy Analysis
-      - degree: BS in Neuroscience
+      - degree: BS in Neuroscience (Minor in Film, Television, and Digital Media)
         university: University of California Los Angeles (UCLA)
         time: September 2011 - June 2015
-        details: Minor in Film, Television, and Digital Media
 
 experiences:
     title: Experiences
@@ -104,8 +102,11 @@ skills:
 
     toolset:
       - name: R
+      - level: 75%
       - name: SQL
+      - level: 50%
       - name: Microsoft Access
+      - level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
