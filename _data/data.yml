@@ -54,16 +54,11 @@ education:
       - degree: Master in Public Policy
         university: University of Chicago - Harris School of Public Policy
         time: September 2021 - June 2023
-        details: |
-          Certificates in: 
-            - Data Analytics
-            - Urban Science and Sustainable Development
-            - Policy Analysis
+        details: Certificates in Data Analytics, Urban Science and Sustainable Development, and Policy Analysis
       - degree: BS in Neuroscience
         university: University of California Los Angeles (UCLA)
         time: September 2011 - June 2015
-        details: |
-          Minor in Film, Television, and Digital Media
+        details: Minor in Film, Television, and Digital Media
 
 experiences:
     title: Experiences
@@ -103,55 +98,6 @@ experiences:
             - Conducted weekly pull-outs and planned interventions for 11 Focus List students to improve math and English ability as well as behavior and class attendance; 100% of students improved scores by year-end
             - Developed 45 session plans and communicated with teachers to provide optimal Focus List lessons 
             - Planned quarterly school events to engage students, families, and community members 
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
