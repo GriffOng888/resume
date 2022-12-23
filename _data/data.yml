@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Griffin Ong
@@ -51,12 +51,14 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Master in Public Policy (Certificates in Data Analytics, Urban Science and Sustainable Development, and Policy Analysis)
+      - degree: Master in Public Policy 
         university: University of Chicago - Harris School of Public Policy
         time: September 2021 - June 2023
-      - degree: BS in Neuroscience (Minor in Film, Television, and Digital Media)
+        details: Certificates in Data Analytics, Urban Science and Sustainable Development, and Policy Analysis
+      - degree: BS in Neuroscience 
         university: University of California Los Angeles (UCLA)
         time: September 2011 - June 2015
+        details: Minor in Film, Television, and Digital Media
 
 experiences:
     title: Experiences
